@@ -1,1 +1,1 @@
-# Iteratively_Recursive_Kernel_Machines
+# Iteratively_Reweighted_Kernel_Machines
