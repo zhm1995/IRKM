@@ -3,5 +3,6 @@
 
 This repo contains a **minimal, self‑contained PyTorch implementation** of the
 Iteratively Reweighted Kernel Machines (IRKM) toy experiment described in
-our upcoming paper.  The goal is to keep the core logic short and readable; a
-more complete version will follow soon.
+our upcoming paper. 
+
+A more complete version will follow soon.
